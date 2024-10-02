@@ -25,8 +25,8 @@ The **Consolidate Files** script is a Python tool designed to aggregate multiple
 
 1. **Clone the Repository** (if applicable) or **Download the Script**:
    ```bash
-   git clone https://github.com/yourusername/consolidate-files.git
-   cd consolidate-files
+   git clone https://github.com/manogyasingh/coding-utils.git
+   cd coding-utils/consolidate
    ```
 
 2. **Install Required Libraries**:
