@@ -142,7 +142,7 @@ A basic unit test suite is provided to verify the script's core functionalities.
 
 ## License
 
-[MIT License](LICENSE)
+[Free as in Freedom](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Contributing
 
